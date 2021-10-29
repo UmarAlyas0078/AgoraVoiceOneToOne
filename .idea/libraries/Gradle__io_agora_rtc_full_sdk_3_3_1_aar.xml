@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.agora.rtc:full-sdk:3.3.1@aar">
+    <CLASSES>
+      <root url="jar://E:/Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/ef1b9488e6f67dc167579be3b9d9c178/jars/classes.jar!/" />
+      <root url="file://E:/Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/ef1b9488e6f67dc167579be3b9d9c178/res" />
+      <root url="file://E:/Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/ef1b9488e6f67dc167579be3b9d9c178/AndroidManifest.xml" />
+      <root url="jar://E:/Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/ef1b9488e6f67dc167579be3b9d9c178/jars/libs/agora-rtc-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/modules-2/files-2.1/io.agora.rtc/full-sdk/3.3.1/4a397923d53e6f2992708326c45bda41974b26ee/full-sdk-3.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
